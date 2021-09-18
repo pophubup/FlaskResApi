@@ -18,7 +18,7 @@ MY_MODEL = ns.model("Result",
     },
 )
 @cross_origin()
-@ns.route('/<string:name>')
+@ns.route('/')
 class DATO(Resource):
     @ns.param('name', '玩家名稱')
     @ns.response(404, '找不到此玩家')
