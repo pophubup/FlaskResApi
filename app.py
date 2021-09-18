@@ -19,16 +19,16 @@ MY_MODEL = ns.model("Result",
     },
 )
 @cross_origin()
-@ns.route('/Dato/<string:name>')
+@ns.route('/<string:name>')
+@ns.param('name', '玩家名稱')
+@ns.response(404, '找不到此玩家')
+@ns.response(200, "OK", MY_MODEL) 
 class DATO(Resource):
-    @ns.param('name', '玩家名稱')
-    @ns.response(404, '找不到此玩家')
-    @ns.response(200, "OK", MY_MODEL) 
     def get(self, name):
-        status_code, result= DATOInforLoader(name, r'C:\Users\Yohoo\Desktop\myAllTest\zWebCrawlingRepository\pys\data.json', 5).DataAsJsonData()
+        status_code, result= DATOInforLoader(name, r'', 5).DataAsJsonData()
         return make_response(jsonify(result),status_code)
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=80)
+    app.run(debug=True)
 

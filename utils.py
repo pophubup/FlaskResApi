@@ -16,15 +16,12 @@ class DATOInforLoader():
         chrome_options.add_argument("--headless") #無頭模式
         chrome_options.add_argument("--disable-dev-shm-usage")
         chrome_options.add_argument("--no-sandbox")
+        #os.environ["CHROMEDRIVER_PATH"] = r"C:\Users\Yohoo\Downloads\chromedriver.exe"
         driver = webdriver.Chrome(
             executable_path=os.environ.get("CHROMEDRIVER_PATH"), chrome_options=chrome_options)
         driver.maximize_window()
         driver.get(self.url)
-        str1 = driver.title
-       
-        if str1 == 'Server Error (500)':
-            return (404, "Not Found Resource")
-         
+     
         return (200 ,driver)
     def __GetData(self):
         status, driver = self.__CreateDriver()
@@ -79,8 +76,8 @@ class DATOInforLoader():
                       ensure_ascii=False)
         return "Save Finished"
 
-##
+#
 # obj = DATOInforLoader(
-#    "fdsfds", r'C:\Users\Yohoo\Desktop\myAllTest\zWebCrawlingRepository\pys\data.json', 10)
+#    "c.y", r'C:\Users\Yohoo\Desktop\pys\data.json', 10)
 
 # print(obj.DataAsJsonPhysicalFile())

@@ -1,0 +1,1202 @@
+[
+    {
+        "page": 1,
+        "result": [
+            {
+                "finishTime": "15/09/2021",
+                "index": 1,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "28min 26s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 2,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 44s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 3,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "16min 12s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 4,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "32min 32s",
+                "type": "一般對戰"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 5,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "18min 47s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 6,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "11min 09s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 7,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 25s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 8,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "12min 33s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 9,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "09min 29s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 10,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "29min 20s",
+                "type": "一般對戰"
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "result": [
+            {
+                "finishTime": "15/09/2021",
+                "index": 1,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "28min 26s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 2,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 44s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 3,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "16min 12s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 4,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "32min 32s",
+                "type": "一般對戰"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 5,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "18min 47s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 6,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "11min 09s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 7,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 25s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 8,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "12min 33s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 9,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "09min 29s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 10,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "29min 20s",
+                "type": "一般對戰"
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "result": [
+            {
+                "finishTime": "15/09/2021",
+                "index": 1,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "28min 26s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 2,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 44s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 3,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "16min 12s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 4,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "32min 32s",
+                "type": "一般對戰"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 5,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "18min 47s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 6,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "11min 09s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 7,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 25s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 8,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "12min 33s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 9,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "09min 29s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 10,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "29min 20s",
+                "type": "一般對戰"
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "result": [
+            {
+                "finishTime": "15/09/2021",
+                "index": 1,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "28min 26s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 2,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 44s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 3,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "16min 12s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 4,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "32min 32s",
+                "type": "一般對戰"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 5,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "18min 47s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 6,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "11min 09s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 7,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 25s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 8,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "12min 33s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 9,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "09min 29s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 10,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "29min 20s",
+                "type": "一般對戰"
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "result": [
+            {
+                "finishTime": "15/09/2021",
+                "index": 1,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "28min 26s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 2,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 44s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 3,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "16min 12s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 4,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "32min 32s",
+                "type": "一般對戰"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 5,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "18min 47s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 6,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "11min 09s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 7,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 25s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 8,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "12min 33s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 9,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "09min 29s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 10,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "29min 20s",
+                "type": "一般對戰"
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "result": [
+            {
+                "finishTime": "15/09/2021",
+                "index": 1,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "28min 26s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 2,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 44s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 3,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "16min 12s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 4,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "32min 32s",
+                "type": "一般對戰"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 5,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "18min 47s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 6,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "11min 09s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 7,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 25s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 8,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "12min 33s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 9,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "09min 29s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 10,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "29min 20s",
+                "type": "一般對戰"
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "result": [
+            {
+                "finishTime": "15/09/2021",
+                "index": 1,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "28min 26s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 2,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 44s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 3,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "16min 12s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 4,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "32min 32s",
+                "type": "一般對戰"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 5,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "18min 47s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 6,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "11min 09s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 7,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 25s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 8,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "12min 33s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 9,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "09min 29s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 10,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "29min 20s",
+                "type": "一般對戰"
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "result": [
+            {
+                "finishTime": "15/09/2021",
+                "index": 1,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "28min 26s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 2,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 44s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 3,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "16min 12s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 4,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "32min 32s",
+                "type": "一般對戰"
+            },
+            {
+                "finishTime": "14/09/2021",
+                "index": 5,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "18min 47s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 6,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "11min 09s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 7,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 25s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 8,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "12min 33s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 9,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "09min 29s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "13/09/2021",
+                "index": 10,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "29min 20s",
+                "type": "一般對戰"
+            }
+        ]
+    },
+    {
+        "page": 2,
+        "result": [
+            {
+                "finishTime": "09/09/2021",
+                "index": 1,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "14min 46s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "09/09/2021",
+                "index": 2,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "10min 18s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "09/09/2021",
+                "index": 3,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "22min 06s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "09/09/2021",
+                "index": 4,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "17min 14s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "09/09/2021",
+                "index": 5,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "12min 50s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "09/09/2021",
+                "index": 6,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "12min 49s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "08/09/2021",
+                "index": 7,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "17min 37s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "08/09/2021",
+                "index": 8,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "21min 11s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "08/09/2021",
+                "index": 9,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "18min 51s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "07/09/2021",
+                "index": 10,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "22min 05s",
+                "type": "ARAM"
+            }
+        ]
+    },
+    {
+        "page": 3,
+        "result": [
+            {
+                "finishTime": "07/09/2021",
+                "index": 1,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "26min 53s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "07/09/2021",
+                "index": 2,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "21min 08s",
+                "type": ""
+            },
+            {
+                "finishTime": "07/09/2021",
+                "index": 3,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "22min 32s",
+                "type": ""
+            },
+            {
+                "finishTime": "05/09/2021",
+                "index": 4,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "17min 41s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "05/09/2021",
+                "index": 5,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "25min 45s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "05/09/2021",
+                "index": 6,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "18min 55s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "05/09/2021",
+                "index": 7,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "15min 26s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "05/09/2021",
+                "index": 8,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "19min 30s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "05/09/2021",
+                "index": 9,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "36min 57s",
+                "type": "單/雙排積分"
+            },
+            {
+                "finishTime": "04/09/2021",
+                "index": 10,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "21min 42s",
+                "type": "ARAM"
+            }
+        ]
+    },
+    {
+        "page": 4,
+        "result": [
+            {
+                "finishTime": "04/09/2021",
+                "index": 1,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "15min 56s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "04/09/2021",
+                "index": 2,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "11min 32s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "04/09/2021",
+                "index": 3,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "25min 25s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "04/09/2021",
+                "index": 4,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "17min 08s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "04/09/2021",
+                "index": 5,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "17min 32s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "03/09/2021",
+                "index": 6,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "14min 53s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "03/09/2021",
+                "index": 7,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "22min 11s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "03/09/2021",
+                "index": 8,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "15min 47s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "03/09/2021",
+                "index": 9,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "21min 09s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "03/09/2021",
+                "index": 10,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "17min 38s",
+                "type": "ARAM"
+            }
+        ]
+    },
+    {
+        "page": 5,
+        "result": [
+            {
+                "finishTime": "03/09/2021",
+                "index": 1,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "18min 50s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "03/09/2021",
+                "index": 2,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "18min 27s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "03/09/2021",
+                "index": 3,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "18min 29s",
+                "type": ""
+            },
+            {
+                "finishTime": "03/09/2021",
+                "index": 4,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "15min 51s",
+                "type": ""
+            },
+            {
+                "finishTime": "02/09/2021",
+                "index": 5,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "26min 23s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "02/09/2021",
+                "index": 6,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "21min 20s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "02/09/2021",
+                "index": 7,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "14min 04s",
+                "type": ""
+            },
+            {
+                "finishTime": "02/09/2021",
+                "index": 8,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "25min 49s",
+                "type": ""
+            },
+            {
+                "finishTime": "02/09/2021",
+                "index": 9,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "16min 19s",
+                "type": ""
+            },
+            {
+                "finishTime": "30/08/2021",
+                "index": 10,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "22min 13s",
+                "type": "ARAM"
+            }
+        ]
+    },
+    {
+        "page": 6,
+        "result": [
+            {
+                "finishTime": "30/08/2021",
+                "index": 1,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "18min 45s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "30/08/2021",
+                "index": 2,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "19min 37s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "18/08/2021",
+                "index": 3,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "23min 14s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "09/08/2021",
+                "index": 4,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "15min 58s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "09/08/2021",
+                "index": 5,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "19min 41s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "09/08/2021",
+                "index": 6,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "23min 36s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "09/08/2021",
+                "index": 7,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "15min 58s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "08/08/2021",
+                "index": 8,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "18min 51s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "08/08/2021",
+                "index": 9,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "14min 37s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "08/08/2021",
+                "index": 10,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "17min 43s",
+                "type": "ARAM"
+            }
+        ]
+    },
+    {
+        "page": 7,
+        "result": [
+            {
+                "finishTime": "08/08/2021",
+                "index": 1,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "24min 24s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "07/08/2021",
+                "index": 2,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "16min 23s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "07/08/2021",
+                "index": 3,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "12min 09s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "07/08/2021",
+                "index": 4,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "17min 03s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "07/08/2021",
+                "index": 5,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "09min 53s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "07/08/2021",
+                "index": 6,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "18min 52s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "07/08/2021",
+                "index": 7,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "16min 10s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "07/08/2021",
+                "index": 8,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "28min 37s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "07/08/2021",
+                "index": 9,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "19min 04s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "07/08/2021",
+                "index": 10,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "17min 07s",
+                "type": "ARAM"
+            }
+        ]
+    },
+    {
+        "page": 8,
+        "result": [
+            {
+                "finishTime": "07/08/2021",
+                "index": 1,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "13min 38s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "07/08/2021",
+                "index": 2,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "13min 50s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "07/08/2021",
+                "index": 3,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "24min 58s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "06/08/2021",
+                "index": 4,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "16min 02s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "06/08/2021",
+                "index": 5,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "26min 22s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "06/08/2021",
+                "index": 6,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "22min 09s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "05/08/2021",
+                "index": 7,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "20min 07s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "04/08/2021",
+                "index": 8,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "15min 58s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "04/08/2021",
+                "index": 9,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "10min 47s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "04/08/2021",
+                "index": 10,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "19min 18s",
+                "type": "ARAM"
+            }
+        ]
+    },
+    {
+        "page": 9,
+        "result": [
+            {
+                "finishTime": "04/08/2021",
+                "index": 1,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "24min 59s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "03/08/2021",
+                "index": 2,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "17min 25s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "03/08/2021",
+                "index": 3,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "10min 47s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "03/08/2021",
+                "index": 4,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "14min 57s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "03/08/2021",
+                "index": 5,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "21min 06s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "03/08/2021",
+                "index": 6,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "16min 10s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "02/08/2021",
+                "index": 7,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "16min 53s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "02/08/2021",
+                "index": 8,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "14min 51s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "02/08/2021",
+                "index": 9,
+                "isWinOrFail": "勝利",
+                "totalPlayHour": "20min 50s",
+                "type": "ARAM"
+            },
+            {
+                "finishTime": "02/08/2021",
+                "index": 10,
+                "isWinOrFail": "失敗",
+                "totalPlayHour": "18min 18s",
+                "type": "ARAM"
+            }
+        ]
+    }
+]
