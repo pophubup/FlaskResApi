@@ -73,7 +73,7 @@ class DATOInforLoader():
                       ensure_ascii=False)
         return "Save Finished"
 
-
+##
 # obj = DATOInforLoader(
 #    "fdsfds", r'C:\Users\Yohoo\Desktop\myAllTest\zWebCrawlingRepository\pys\data.json', 10)
 
